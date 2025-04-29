@@ -7,3 +7,6 @@ TypeScript/NodeJS developer since 2018, i am currently working for POG Group.
 I am passionate about IT in general, especially in Networks and Softwares.
 
 Also i love cats :D
+
+
+Buy me a coffee to support my work ! https://buymeacoffee.com/imthespyke
